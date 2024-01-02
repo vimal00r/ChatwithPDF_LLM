@@ -1,0 +1,6 @@
+langchain
+streamlit
+python-dotenv
+st-chat-message
+pandas
+transformers
